@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/1332659573206683678)](https://discord.com/users/1332659573206683678)
+
 # 👋 Hi! Im hi1587
 - I like to do these stuff:
 - Programming
