@@ -7,7 +7,7 @@
 - I use:
 - Visual Studio Code
 - Visual Studio 2022
-
+|
 - Social Media:
 - Discord: https://discord.gg/UtTYexffVu
 - YouTube: https://www.youtube.com/@Darboy_YT
