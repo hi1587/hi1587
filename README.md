@@ -1,5 +1,8 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/859858790592282704?theme=)](https://discord.com/users/859858790592282704)
-
+<div>
+  <a href="https://discord.com/users/859858790592282704">
+    <img src="(https://lanyard.cnrad.dev/api/859858790592282704?theme=)">
+  </a>
+</div>
 # 👋 Hi! Im hi1587
 - I like to do these stuff:
   - Programming
