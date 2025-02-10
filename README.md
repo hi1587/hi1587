@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1332659573206683678)](https://discord.com/users/1332659573206683678)
+[![Discord Presence](https://lanyard.cnrad.dev/api/859858790592282704?theme=)](https://discord.com/users/859858790592282704)
 
 # 👋 Hi! Im hi1587
 - I like to do these stuff:
