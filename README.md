@@ -9,16 +9,16 @@
     - Programming
     - Coding
   - These are the languages i've learned:
-    - <img src="https://github.com/hi1587/hi1587/blob/main/Lua.png">
-    - <img src="https://github.com/hi1587/hi1587/blob/main/HTML.png">
-    - <img src="https://github.com/hi1587/hi1587/blob/main/json.png">
-    - <img src="https://github.com/hi1587/hi1587/blob/main/python.png">
-    - <img src="https://github.com/hi1587/hi1587/blob/main/javascript.png">
+    - ![Lua](https://github.com/hi1587/hi1587/blob/main/Lua.png)
+    - ![HTML](https://github.com/hi1587/hi1587/blob/main/HTML.png)
+    - ![JSON](https://github.com/hi1587/hi1587/blob/main/json.png)
+    - ![Python](https://github.com/hi1587/hi1587/blob/main/python.png)
+    - ![JavaScript](https://github.com/hi1587/hi1587/blob/main/javascript.png)
   - I use:
-    - <img src="https://github.com/hi1587/hi1587/blob/main/vscode.png">
-    - <img src="https://github.com/hi1587/hi1587/blob/main/visual-studio-2022.png">
+    - ![Visual Studio Code](https://github.com/hi1587/hi1587/blob/main/vscode.png)
+    - ![Visual Studio 2022](https://github.com/hi1587/hi1587/blob/main/visual-studio-2022.png)
 >  
   - Social Media:
-    - Discord: https://discord.gg/UtTYexffVu
-    - YouTube: https://www.youtube.com/@Darboy_YT
-    - Steam: https://steamcommunity.com/id/Darboy0604/
+    - [Discord](https://discord.com/users/859858790592282704)
+    - [YouTube](https://www.youtube.com/@Darboy_YT)
+    - [Steam](https://steamcommunity.com/id/Darboy0604)
