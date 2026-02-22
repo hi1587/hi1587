@@ -14,6 +14,8 @@
     - ![JSON](https://github.com/hi1587/hi1587/blob/main/json.png)
     - ![Python](https://github.com/hi1587/hi1587/blob/main/python.png)
     - ![JavaScript](https://github.com/hi1587/hi1587/blob/main/javascript.png)
+    - ![C#](https://github.com/hi1587/hi1587/blob/main/csharp.png)
+    - ![CSS](https://github.com/hi1587/hi1587/blob/main/css.png) 
   - I use:
     - ![Visual Studio Code](https://github.com/hi1587/hi1587/blob/main/vscode.png)
     - ![Visual Studio 2022](https://github.com/hi1587/hi1587/blob/main/visual-studio-2022.png)
